@@ -939,6 +939,11 @@ body {
 	.navbar-header button {
 		margin-left: 50px;
 	}
+	.navbar-brand {
+		height: 50px;
+		font-size: 6vw;	
+		margin-left: 20px;
+	}
 	/** REVIEW **/
 	.review-head h3{
 		font-size: 1.5em;
