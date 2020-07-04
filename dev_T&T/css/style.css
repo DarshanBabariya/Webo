@@ -740,7 +740,7 @@ body {
 		font-size: 1.1em;
 	}
 	#contect a h4 {
-		font-size: 2.2em;
+		font-size: 2em;
 	}
 	#contect h6 {
 		font-size: 1.1em;
@@ -779,7 +779,7 @@ body {
 
 	.navbar-brand {
 		height: 50px;
-		font-size: 10vw;	
+		font-size: 6vw;	
 		margin-left: 20px;
 	}
 	#nav-list a {
@@ -791,7 +791,6 @@ body {
 	}
 
 	/** END OF HEADER **/
-
 	/** HEADING CONTENT **/
 
 	#main-head h1{
@@ -944,6 +943,11 @@ body {
 		font-size: 10vw;	
 		margin-left: 20px;
 	}
+	/** CONTECT 	 **/
+	#contect a h4 {
+		font-size: 1.6em;
+	}
+	/** END OF CONTECT **/
 	/** REVIEW **/
 	.review-head h3{
 		font-size: 1.5em;
