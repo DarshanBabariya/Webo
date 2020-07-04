@@ -343,8 +343,8 @@ body {
 #phone , #address {
 		font-size: 20px;
 }
-#info p:nth-child(2) {
-	margin-top: 25px;
+#copy p {
+	font-size: 25px;
 }
 /* End Footer */
 
@@ -484,6 +484,9 @@ body {
 	#info {
 		font-size: 20px;
 	}
+	#copy p {
+		font-size: 22px;
+	}
 	/* End Footer */
 
 }
@@ -620,6 +623,9 @@ body {
 	}
 	#info {
 		font-size: 18px;
+	}
+	#copy p {
+		font-size: 20px;
 	}
 	/* End Footer */
 	
@@ -759,6 +765,9 @@ body {
 	}
 	#info {
 		font-size: 16px;
+	}
+	#copy p {
+		font-size: 19px;
 	}
 	/* End Footer */
 }
@@ -919,6 +928,9 @@ body {
 	}
 	.panel-footer section hr {
 			width: 50%;
+	}
+	#copy p {
+		font-size: 19px;
 	}
 	/* End Footer */
 
